@@ -1,6 +1,6 @@
 import tkinter
 
-msg = "hello"
+msg = "hellsso"
 print(msg)
 
 tkinter._test()
